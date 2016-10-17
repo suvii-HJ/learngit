@@ -6,3 +6,4 @@ we know eachother 7 years ago ;
 :q
 :q
 s
+GPL
