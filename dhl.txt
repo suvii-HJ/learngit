@@ -1,4 +1,9 @@
 I wanna be a better man 
 so I ought to learn more thing 
+<<<<<<< HEAD
  this change is for master
-
+=======
+this change is for dev
+>>>>>>> dev
+ 
+here stands conflic fixed
